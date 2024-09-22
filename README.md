@@ -17,7 +17,8 @@ pkg install git
 git clone https://github.com/Pirate-Place/Ak-47-dos-attack-tool-.git
 cd Ak-47-dos-attack-tool-
 pip install -r requirements.txt
-python setup.py
+python setup.py install
+python ak-47.py
 
 
 ```
