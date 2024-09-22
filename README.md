@@ -19,6 +19,9 @@ cd Ak-47-dos-attack-tool-
 pip install -r requirements.txt
 python setup.py
 
+
+```
+
 ## Installation Linux
 
 To install for Linux  run:
